@@ -9,7 +9,7 @@ En esta aplicación de Reserva de Hotel "DreamStay" se podrá buscar, reservar y
 * *Reservas Fáciles:* Reservar habitaciones en solo unos pocos clics.
 * *Información Detallada:* Explorar información detallada sobre cada hotel, incluyendo fotos, descripciones y opiniones.
 * *Ofertas Especiales:* Mantentener al tanto de las promociones y ofertas especiales.
-+ *Seguridad y Privacidad:* Tecnologías para proteger datos.
+* *Seguridad y Privacidad:* Tecnologías para proteger datos.
 
 ## Cómo Empezar
 * Registro de Usuario: Crea una cuenta gratuita para acceder a todas las funciones de la aplicación.
